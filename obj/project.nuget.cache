@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Ue3fK+wW07Ifm35h4R0R2PUdhM0RY8zQ6DcDSkjvHor4mKIFCPTA2TvERlgMPH/whvrOfpjef1GzprMPl7y1Q==",
+  "success": true,
+  "projectFilePath": "/Users/bibeklamichhane/Documents/F#/Test1_Bibek/Test1_Bibek.fsproj",
+  "expectedPackageFiles": [
+    "/Users/bibeklamichhane/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
